@@ -120,3 +120,9 @@ ggplot(distance, aes(mean_arr_delay, time_hour, colour = length)) +
 ```
 
 ![](HW2_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+
+![unnamed-chunk-2-1](https://user-images.githubusercontent.com/78119439/194975886-671d4a9a-823b-44c0-8c82-17fcf1df1a80.png)
+![unnamed-chunk-3-1](https://user-images.githubusercontent.com/78119439/194975889-f7c237e5-4dd3-43a4-b9e5-537c1eedf326.png)
+![unnamed-chunk-4-1](https://user-images.githubusercontent.com/78119439/194975892-ebd9b133-987b-4312-b12e-1771a3ed9bfa.png)
+
+
